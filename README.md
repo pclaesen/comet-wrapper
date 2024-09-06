@@ -38,9 +38,10 @@ To nullify inflation attacks, `CometWrapper` maintains internal accounting of al
 
 ### Testnets
 
-| Network  | Base Asset | CometWrapper Address                       |
-| -------- | ---------- | ------------------------------------------ |
-| Sepolia  | USDC       | 0xC3836072018B4D590488b851d574556f2EeB895a |
+| Network      | Base Asset    | CometWrapper Address                       |
+| ------------ | ------------- | ------------------------------------------ |
+| Sepolia      | USDC          | 0xC3836072018B4D590488b851d574556f2EeB895a |
+| Base Sepolia | USDC          | 0x383eCD943E338357c0D81942933acA781C2E74cE |
 
 ## Usage
 
