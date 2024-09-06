@@ -18,6 +18,7 @@ import { CometWrapper, CometInterface, ICometRewards, CometHelpers, IERC20 } fro
 // PROXY_ADMIN_ADDRESS
 // TOKEN_NAME
 // TOKEN_SYMBOL
+// CHAIN_ID
 
 // Optional but suggested ENV vars:
 // ETHERSCAN_KEY
